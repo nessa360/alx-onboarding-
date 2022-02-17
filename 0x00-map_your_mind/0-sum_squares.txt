@@ -1,1 +1,9 @@
 
+Calculate the sum of squares of given input of numbers
+START
+          Declare input_num_1, input_num_2 and sum
+          Read input_num_1, input_num_2
+          Let n*n and p*p represent square of input_num_1, input_num_2          
+          Set sum= n*n and p*p
+          Display results
+END
